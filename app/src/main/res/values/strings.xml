@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AtZxing</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <!-- 扫一扫 -->
+    <string name="scan_tip">将二维码放入框内，即可自动扫描</string>
+    <string name="scan_name">扫一扫</string>
+    <string name="scan_photo">相册</string>
+    <string name="scan_flashlight_on">开灯</string>
+    <string name="scan_flashlight_off">关灯</string>
+    <string name="scan_no_found">未发现二维码</string>
+    <string name="current_network_unavailability">当前网络不可用</string>
+    <string name="please_check_the_network_settings">请检查网络设置</string>
+    <string name="continue_scan_code">继续扫码</string>
+    <string name="invalid_qrcode">无效二维码</string>
+    <string name="failure_of_qrcode_parsing">二维码解析失败</string>
+</resources>
